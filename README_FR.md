@@ -1,7 +1,7 @@
 Projet TETRIS
 ============
 
-**[English version here !](https://github.com/yoan-ngr/TETRIS/README.md)**
+**[English version here !](https://github.com/yoan-ngr/TETRIS/blob/main/README.md)**
 
 Présentation générale
 ----------
